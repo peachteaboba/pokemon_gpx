@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F17E76F41F310C4900BE20D4 /* ny1.1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F17E76F31F310C4900BE20D4 /* ny1.1.gpx */; };
+		F17E76F61F310CC500BE20D4 /* ny1.2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F17E76F51F310CC500BE20D4 /* ny1.2.gpx */; };
+		F17E76F81F3117A100BE20D4 /* ny1.3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F17E76F71F3117A100BE20D4 /* ny1.3.gpx */; };
+		F17E76FA1F311B2A00BE20D4 /* cp2.3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F17E76F91F311B2A00BE20D4 /* cp2.3.gpx */; };
+		F17E76FC1F311D7C00BE20D4 /* cp2.4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F17E76FB1F311D7C00BE20D4 /* cp2.4.gpx */; };
+		F17E76FE1F312E2A00BE20D4 /* ny1.4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F17E76FD1F312E2A00BE20D4 /* ny1.4.gpx */; };
 		F1C0A3C11F2E66D700CE1B6B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C0A3C01F2E66D700CE1B6B /* AppDelegate.swift */; };
 		F1C0A3C31F2E66D700CE1B6B /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = F1C0A3C21F2E66D700CE1B6B /* GameScene.sks */; };
 		F1C0A3C51F2E66D700CE1B6B /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = F1C0A3C41F2E66D700CE1B6B /* Actions.sks */; };
@@ -15,9 +21,16 @@
 		F1C0A3CC1F2E66D700CE1B6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1C0A3CA1F2E66D700CE1B6B /* Main.storyboard */; };
 		F1C0A3CE1F2E66D700CE1B6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1C0A3CD1F2E66D700CE1B6B /* Assets.xcassets */; };
 		F1C0A3D11F2E66D700CE1B6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1C0A3CF1F2E66D700CE1B6B /* LaunchScreen.storyboard */; };
+		F1C0A3D91F2E670100CE1B6B /* cp2.2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F1C0A3D81F2E670100CE1B6B /* cp2.2.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F17E76F31F310C4900BE20D4 /* ny1.1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ny1.1.gpx; sourceTree = "<group>"; };
+		F17E76F51F310CC500BE20D4 /* ny1.2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ny1.2.gpx; sourceTree = "<group>"; };
+		F17E76F71F3117A100BE20D4 /* ny1.3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ny1.3.gpx; sourceTree = "<group>"; };
+		F17E76F91F311B2A00BE20D4 /* cp2.3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = cp2.3.gpx; sourceTree = "<group>"; };
+		F17E76FB1F311D7C00BE20D4 /* cp2.4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = cp2.4.gpx; sourceTree = "<group>"; };
+		F17E76FD1F312E2A00BE20D4 /* ny1.4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ny1.4.gpx; sourceTree = "<group>"; };
 		F1C0A3BD1F2E66D700CE1B6B /* pokemon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pokemon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1C0A3C01F2E66D700CE1B6B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F1C0A3C21F2E66D700CE1B6B /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -28,6 +41,7 @@
 		F1C0A3CD1F2E66D700CE1B6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1C0A3D01F2E66D700CE1B6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F1C0A3D21F2E66D700CE1B6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1C0A3D81F2E670100CE1B6B /* cp2.2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = cp2.2.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +58,13 @@
 		F1C0A3B41F2E66D700CE1B6B = {
 			isa = PBXGroup;
 			children = (
+				F17E76FD1F312E2A00BE20D4 /* ny1.4.gpx */,
+				F17E76FB1F311D7C00BE20D4 /* cp2.4.gpx */,
+				F17E76F91F311B2A00BE20D4 /* cp2.3.gpx */,
+				F17E76F71F3117A100BE20D4 /* ny1.3.gpx */,
+				F17E76F51F310CC500BE20D4 /* ny1.2.gpx */,
+				F17E76F31F310C4900BE20D4 /* ny1.1.gpx */,
+				F1C0A3D81F2E670100CE1B6B /* cp2.2.gpx */,
 				F1C0A3BF1F2E66D700CE1B6B /* pokemon */,
 				F1C0A3BE1F2E66D700CE1B6B /* Products */,
 			);
@@ -133,10 +154,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F17E76FE1F312E2A00BE20D4 /* ny1.4.gpx in Resources */,
+				F17E76FC1F311D7C00BE20D4 /* cp2.4.gpx in Resources */,
+				F17E76F81F3117A100BE20D4 /* ny1.3.gpx in Resources */,
 				F1C0A3CC1F2E66D700CE1B6B /* Main.storyboard in Resources */,
 				F1C0A3C31F2E66D700CE1B6B /* GameScene.sks in Resources */,
+				F17E76F41F310C4900BE20D4 /* ny1.1.gpx in Resources */,
 				F1C0A3CE1F2E66D700CE1B6B /* Assets.xcassets in Resources */,
+				F1C0A3D91F2E670100CE1B6B /* cp2.2.gpx in Resources */,
 				F1C0A3D11F2E66D700CE1B6B /* LaunchScreen.storyboard in Resources */,
+				F17E76F61F310CC500BE20D4 /* ny1.2.gpx in Resources */,
+				F17E76FA1F311B2A00BE20D4 /* cp2.3.gpx in Resources */,
 				F1C0A3C51F2E66D700CE1B6B /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -316,6 +344,7 @@
 				F1C0A3D71F2E66D700CE1B6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
